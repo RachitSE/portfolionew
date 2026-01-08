@@ -31,7 +31,7 @@ export const projects = [
     gradientFrom: "from-emerald-500/20",
     gradientTo: "to-teal-600/20",
     hoverText: "group-hover:from-emerald-300 group-hover:to-teal-400",
-    links: { demo: "https://capital-hazel.vercel.app/portfolio", code: "#" },
+    links: { demo: "https://capital-hazel.vercel.app/", code: "#" },
     metrics: [
       { label: "Render Latency", value: "<16ms" },
       { label: "Assets Tracked", value: "$1.2M" },
