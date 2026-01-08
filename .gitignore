@@ -17,7 +17,7 @@
 /.next/
 /out/
 
-# production
+# productiongit commit -m "uploading full portfolio code"
 /build
 
 # misc

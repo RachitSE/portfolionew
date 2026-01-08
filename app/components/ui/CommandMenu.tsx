@@ -90,7 +90,7 @@ export function CommandMenu() {
                 </CommandPrimitive.Group>
 
                 <CommandPrimitive.Group heading="Actions" className="text-xs font-medium text-gray-500 px-2 py-2 mt-2">
-                  <CommandItem onSelect={() => runCommand(() => window.location.href = "mailto:rachit@example.com")}>
+                  <CommandItem onSelect={() => runCommand(() => window.location.href = "mailto:rachitofficial77@gmail.com")}>
                     <Mail className="mr-2 h-4 w-4" />
                     <span>Send Email</span>
                   </CommandItem>
